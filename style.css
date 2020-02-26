@@ -1,0 +1,9 @@
+h1.headers {
+  text-align: center;
+}
+
+.content {
+  max-width: 500px;
+  margin: auto;
+  text-align: center;
+}
